@@ -2,6 +2,6 @@
 
 This **web scraping** demonstration in **Python** was created based on the following tutorial: https://www.youtube.com/watch?v=XVv6mJpFOb0.
 
-The code is modified and personalised, the tutorial was used as a reference.
+The code is modified and personalised, the tutorial was used as a guideline.
 
 Libraries used: *beautifulsoup4, lxml, requests*
