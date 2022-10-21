@@ -1,4 +1,4 @@
-# python_web_scraping_tutorial
+# python_web_scraping
 
 This **web scraping** demonstration in **Python** was created based on the following tutorial: https://www.youtube.com/watch?v=XVv6mJpFOb0.
 
