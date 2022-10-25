@@ -2,4 +2,4 @@
 
 **Web scraping** demonstration in **Python 3**
 
-Libraries used: *beautifulsoup4, lxml, requests*
+Libraries: *beautifulsoup4, lxml, requests*
