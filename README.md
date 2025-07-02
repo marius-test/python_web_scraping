@@ -2,7 +2,7 @@
 
 **Web scraping** demonstration in **Python**
 
-Libraries used: *beautifulsoup4, lxml, requests, time*
+**Libraries** used: *beautifulsoup4, lxml, requests, time*
 
 This repository contains two example scripts:
 
