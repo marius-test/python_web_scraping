@@ -2,7 +2,7 @@
 
 **Web scraping** demonstration in **Python**
 
-### Libraries:
+**Libraries:**
 - beautifulsoup4
 - lxml
 - requests
