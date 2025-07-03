@@ -15,3 +15,7 @@ This repository contains two example scripts:
 - Scraping live QA engineer job listings from Jooble, filtering by recent posts, and saving results as text files  
 
 The job scraper runs continuously with a 24-hour delay between scrapes.
+
+### Purpose
+
+Explore practical techniques for extracting and processing web data using Python.
